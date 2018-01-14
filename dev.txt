@@ -1,0 +1,3 @@
+this is the text file of nano
+created for demo purpose
+edited second itime
